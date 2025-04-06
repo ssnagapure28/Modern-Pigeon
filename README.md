@@ -21,6 +21,3 @@ The Delivery Management System is a comprehensive solution for managing package 
 - Access the application through the provided URL
 - Use the provided functionalities for package tracking, payment, and customer support
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
