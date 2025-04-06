@@ -24,5 +24,3 @@ The Delivery Management System is a comprehensive solution for managing package 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-For any inquiries or suggestions, please contact Siddhant Dilip Godshalwar at siddhant.godshalwar@gmail.com.
