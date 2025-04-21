@@ -1,7 +1,8 @@
 # Delivery Management System
 
-## Overview
-The Delivery Management System is a comprehensive solution for managing package delivery logistics efficiently. Developed using JavaScript, Node.js, React.js, and MySQL, this web application facilitates the tracking of packages, route optimization, and real-time status updates. With features such as a cost matrix algorithm for package delivery, payment portal integration, and a rule-based chatbot, the system streamlines the entire delivery process, enhancing customer satisfaction and operational efficiency.
+🚀 Overview
+The Delivery Management System is a full-stack web application designed to manage package delivery logistics efficiently. Built with JavaScript, Node.js, React.js, and MySQL, this system enables streamlined package tracking, route optimization, and real-time status updates. It’s tailored to improve both customer satisfaction and operational efficiency.
+
 
 ## Features
 - Cost matrix algorithm for package delivery route optimization
